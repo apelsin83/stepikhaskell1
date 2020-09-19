@@ -1,0 +1,33 @@
+pi
+
+"ABC" ++ "DE"
+
+:set prompt "GHCI> "
+
+:l
+:load
+
+:r
+:reload
+
+acos (cos pi)
+
+f x y - function with 2arg
+
+max 5 42
+
+(max 5) 42 assotiative  to left
+
+(max 5) is partial application
+
+for function 
+name params = body
+
+sumSquares x y = x ^ 2 + y ^ 2
+
+in ghci 
+
+let sumSquares x y = x ^ 2 + y ^ 2
+
+
+type data start with Big letter, function from low
